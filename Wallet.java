@@ -1,6 +1,7 @@
 class Wallet
 {
-   String price,color,countryMade;
+   String color,countryMade;
+    int price;
    Wallet()
    {
      System.out.println(" START OF WALLET INVOKING");

@@ -3,7 +3,7 @@ class WalletRunner
    public static void main(String[] values)
    {
       Wallet wallet=new Wallet();
-      String result=wallet.price;
+      int result=wallet.price;
       System.out.println(result);
       String results=wallet.color;
 	  System.out.println(results);

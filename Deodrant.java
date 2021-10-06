@@ -1,6 +1,8 @@
 class  Deodrant
 {
-      String brand,color,quality,price;
+      String brand,color;
+	  float quantity;
+	  int price;
 	 
 	 
       Deodrant()    

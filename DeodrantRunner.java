@@ -8,9 +8,9 @@ class DeodrantRunner
 	 System.out.println(result);
 	 String results=deodrant.color;
 	 System.out.println(results);
-	 String resultss=deodrant.quality;
+	 float resultss=deodrant.quantity;
 	 System.out.println(resultss);
-	 String resultsss=deodrant.price;
+	 int resultsss=deodrant.price;
 	 System.out.println(resultsss);
 	 System.out.println("End Deodrant invoked");
 	 
