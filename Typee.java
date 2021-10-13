@@ -1,0 +1,5 @@
+enum Typee
+{
+  FASTRACK,SONATA,TITAN,FOSSIL;
+
+}
