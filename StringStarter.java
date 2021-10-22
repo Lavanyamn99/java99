@@ -57,7 +57,7 @@ class StringStarter{
 		String mobile="ONEPLUS";
 		String cam=" quad cam";
 		String concate=mobile.concat(cam);
-		System.out.println(concate);
+		System.out.println(concate);             
 
 		boolean isEqual=tree.contentEquals(sb);
 		System.out.println(isEqual);
